@@ -1,0 +1,11 @@
+C:\Users\fu000032\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\fu000032\Desktop\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\fu000032\Desktop\FinalProject\FinalProject\bin\Debug\MineSweeper2.exe
+C:\Users\fu000032\Desktop\FinalProject\FinalProject\bin\Debug\MineSweeper2.pdb
+C:\Users\fu000032\Desktop\FinalProject\FinalProject\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\fu000032\Desktop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.StartMenu.resources
+C:\Users\fu000032\Desktop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.Properties.Resources.resources
+C:\Users\fu000032\Desktop\FinalProject\FinalProject\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\fu000032\Desktop\FinalProject\FinalProject\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\fu000032\Desktop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.exe
+C:\Users\fu000032\Desktop\FinalProject\FinalProject\obj\x86\Debug\FinalProject.pdb
